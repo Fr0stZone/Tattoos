@@ -1,0 +1,19 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+#header {
+    position: relative;
+    top: 100px;
+    width: 50%;
+    left: calc(40%);
+    align-content: center;
+}
+
+#tattoo{
+    background-color: black;
+    color:white;
+    align-items: center;
+    
+
+}

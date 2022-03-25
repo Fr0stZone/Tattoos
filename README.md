@@ -1,2 +1,0 @@
-# Tattoos
-:P
